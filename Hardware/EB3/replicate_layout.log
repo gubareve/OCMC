@@ -1,0 +1,20 @@
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 303:Plugin executed on: 'linux'
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 304:Plugin executed with python version: '3.10.5 (main, Aug  1 2022, 07:53:20) [GCC 12.1.0]'
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 305:KiCad build version: (6.0.7)
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 306:Plugin version: 1.2.1
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 307:Frame repr: <wx._core.Frame object at 0x7fef3f847d00>
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 331:Preparing replicator with SW38 as a reference
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:source anchor footprint is 'SW38'
+Located on: ['Keyboard']
+With filenames: ['Keyboard.kicad_sch']
+With sheet_id:['Keyboard']
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 366:Corresponding footprints are 
+[('SW38', ['Keyboard'])]
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 378:Showing dialog
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'Keyboard', file:'Keyboard.kicad_sch'
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[]
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['Keyboard']
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 384:Toolbar position: wx.Point(7443, 199)
+08-14 23:55:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 390:Dialog position: wx.Point(7079, 199)
+08-14 23:55:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 232:User canceled the dialog

@@ -1,0 +1,48 @@
+### Module positions - created on Sat 27 Aug 2022 09:19:38 PM PDT ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                                        PosX       PosY       Rot  Side
+C1        22pf                    C_0805_2012Metric                           97.7900   -81.2800   90.0000  top
+C2        10uF                    C_0805_2012Metric                          138.0490   -85.8520    0.0000  top
+C3        10uF                    C_0805_2012Metric                          144.5260   -80.5180   90.0000  top
+C4        0.1uF                   C_0805_2012Metric                           92.6846   -77.9018  -90.0000  top
+C5        10uF                    C_0805_2012Metric                           94.7420   -77.9120  -90.0000  top
+C6        22pf                    C_0805_2012Metric                          105.4100   -81.2800   90.0000  top
+C7        100n                    C_0805_2012Metric                           80.0100   -78.9940  180.0000  top
+D1        LED                     LED_0805_2012Metric                        151.3840   -80.5415   90.0000  top
+DS1       WC1602A                 WC1602A                                     88.6500   -29.7275    0.0000  top
+J1        Barrel_Jack             BarrelJack_GCT_DCJ200-10-A_Horizontal      163.1950   -70.4700  -90.0000  top
+J2        USB_B_Micro             USB_Micro-B_Amphenol_10118194_Horizontal   162.2140   -81.9150   90.0000  top
+J3        Programming_Connectors  PinSocket_1x06_P2.54mm_Vertical            118.0850   -79.9850  180.0000  top
+J4        Power_Connectors        PinSocket_1x03_P2.54mm_Vertical            125.2470   -67.3250    0.0000  top
+J5        SPI_Connectors          PinSocket_1x04_P2.54mm_Vertical            121.6910   -67.3200    0.0000  top
+R1        200                     R_0805_2012Metric                          149.0980   -80.5415   90.0000  top
+R2        220                     R_0805_2012Metric                          146.8120   -80.5415   90.0000  top
+R3        10k                     R_0805_2012Metric                           80.0100   -81.0260  180.0000  top
+RV1       10k                     Potentiometer_Piher_PT-6-V_Vertical_Hole   113.4980   -77.5100  180.0000  top
+SW1       SW_SPST                 SW_Push_2P2T_Toggle_CK_PVA2OAH5xxxxxxV2    136.2615   -67.4355    0.0000  top
+SW3       CONTROL                 SW_Cherry_MX_Plate_1.00u                    92.0750   -98.4250    0.0000  top
+SW4       7                       SW_Cherry_MX_Plate_1.00u                    92.0750  -117.4750    0.0000  top
+SW5       4                       SW_Cherry_MX_Plate_1.00u                    92.0750  -136.5250    0.0000  top
+SW6       1                       SW_Cherry_MX_Plate_1.00u                    92.0750  -155.5750    0.0000  top
+SW7       ENTER                   SW_Cherry_MX_Plate_1.00u                    92.0750  -174.6250    0.0000  top
+SW8       ALT                     SW_Cherry_MX_Plate_1.00u                   111.1250   -98.4250    0.0000  top
+SW9       8                       SW_Cherry_MX_Plate_1.00u                   111.1250  -117.4750    0.0000  top
+SW10      5                       SW_Cherry_MX_Plate_1.00u                   111.1250  -136.5250    0.0000  top
+SW11      2                       SW_Cherry_MX_Plate_1.00u                   111.1250  -155.5750    0.0000  top
+SW12      0                       SW_Cherry_MX_Plate_1.00u                   111.1250  -174.6250    0.0000  top
+SW13      DEL                     SW_Cherry_MX_Plate_1.00u                   130.1750   -98.4250    0.0000  top
+SW14      9                       SW_Cherry_MX_Plate_1.00u                   130.1750  -117.4750    0.0000  top
+SW15      6                       SW_Cherry_MX_Plate_1.00u                   130.1750  -136.5250    0.0000  top
+SW16      3                       SW_Cherry_MX_Plate_1.00u                   130.1750  -155.5750    0.0000  top
+SW17      DOT                     SW_Cherry_MX_Plate_1.00u                   130.1750  -174.6250    0.0000  top
+SW18      CLR                     SW_Cherry_MX_Plate_1.00u                   149.2250   -98.4250    0.0000  top
+SW19      MULT                    SW_Cherry_MX_Plate_1.00u                   149.2250  -117.4750    0.0000  top
+SW20      DIV                     SW_Cherry_MX_Plate_1.00u                   149.2250  -136.5250    0.0000  top
+SW21      SUB                     SW_Cherry_MX_Plate_1.00u                   149.2250  -155.5750    0.0000  top
+SW22      ADD                     SW_Cherry_MX_Plate_1.00u                   149.2250  -174.6250    0.0000  top
+U1        ATmega328-P             DIP-28_W7.62mm                              80.0200   -74.2850   90.0000  top
+U2        L78L05_TO92             TO-92_Inline                               132.6940   -82.8040   90.0000  top
+Y1        16MHz                   C_1210_3225Metric                          101.6000   -81.2800  180.0000  top
+## End
